@@ -132,5 +132,7 @@ symbols_count_time:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/lihuimingxs/lihuimingxs.github.io
-  branch: main
+  # repo: https://github.com/lihuimingxs/lihuimingxs.github.io
+  # branch: main
+  repo: https://gitee.com/lihuimingxs/lihuimingxs
+  branch: master
